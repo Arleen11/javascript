@@ -9,7 +9,7 @@
 // === is strict check aka datatype
  //console.log('2' === 2);
 
- 
+
 
 //*********************************Datatypes***************************** */
 
@@ -19,7 +19,7 @@
 const score = 100
 const scoreValue = 100.3
 
-const isLoggedIn = true
+const isLoggedIn = false
 const outsideTemp =null
 let userEmail;
 
